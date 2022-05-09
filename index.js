@@ -27,4 +27,4 @@ var server = http.createServer(function (req, res) {
 
 server.on("upgrade", unblocker.onUpgrade);
 
-console.log("proxy server live at http://localhost:8080/");
+console.log("proxy server live at http://8080-rishitv9-rishitv9-f02ximqlr56.ws-us44.gitpod.io/");
