@@ -1,6 +1,0 @@
-tasks:
-  - init: node install -save unblocker
-    command: node index.js
-# Ports to expose on workspace startup
-ports:
-  - port: 8080
