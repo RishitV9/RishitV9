@@ -2,49 +2,14 @@
 const Unblocker = require("unblocker");
 const fs = require("fs");
 const https = require("http");
-// const readline = require('readline').createInterface({
-//   input: process.stdin,
-//   output: process.stdout
-// });
 const unblocker = Unblocker({});
-// const { exec } = require('child_process');
-// let port;
-// let verbose = false;
-
-
-// // initialization:
-// readline.question('[*] RUN AT PORT: ', portnumber => {
-//   port = portnumber;
-//   readline.close();
-// });
-
-// readline.question('[*] Make a command for bash usage? (y/n): ', reply => {
-//   if (reply === "y") {
-//     exec('sudo ln -s /cmd.sh /usr/local/bin/proxy', (err, stdout, stderr) => {
-//       if (err) {
-//         console.error(err)
-//       }
-//     });
-//   }
-//   readline.close();
-// });
-
-// readline.question('[*] Activate verbose mode to provide info about every request made to your server? (y/n): ', reply => {
-//   if (reply === "y") {
-//     verbose = true;
-//   }
-//   readline.close();
-// });
+const port = 8080;
 
 
 // startup:
-console.log(`[*] STARTING AT PORT: 8080....`);
+console.log(`[*] STARTING AT PORT: ${port}....`);
 const server = https.createServer(function (req, res) {
-    // print info about request/response:
-    // if (verbose) {
-    //   console.log(`REQUEST: ${req}: ${req.method} -> ${request.dir}`)
-    // }
-
+    console.log()
     unblocker(req, res, function (err) {
       const headers = { "content-type": "html" };
 
@@ -64,8 +29,8 @@ const server = https.createServer(function (req, res) {
       }
     });
   })
-  .listen(8080);
+  .listen(port);
 
 server.on("upgrade", unblocker.onUpgrade);
 
-console.log(`[*] Proxy Server live at http://localhost:8080/`);
+console.log(`[*] Proxy Server live at http://${port}-rishitv9-rishitv9-ldgqgowvow7.ws-us45.gitpod.io/`);
