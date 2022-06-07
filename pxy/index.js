@@ -24,7 +24,7 @@ const server = https.createServer(function (req, res) {
         }
       })
     }
-    if (!req.url.indexOf("/u7hhgw0lh2.herokuapp.com/socket.io/")) {
+    if (!(req.url.indexOf("/u7hhgw0lh2.herokuapp.com/socket.io/") > 0)) {
       txtLog.log("[*] GET -> REQUESTED: (", req.url, ") BY " + parseIp(req))
     }
     unblocker(req, res, function (err) {
