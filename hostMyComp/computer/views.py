@@ -1,5 +1,5 @@
 from django.shortcuts import render
 
 
-def computer():
+def computer(request):
     pass
