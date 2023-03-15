@@ -1,6 +1,6 @@
 var http = require('http')
 var fs = require('fs')
-var index = fs.readFileSync('Offline_Download_Version.html')
+var index = fs.readFileSync('EaglercraftX_1.8_Offline_en_US.html')
 
 const port = 8000;
 
