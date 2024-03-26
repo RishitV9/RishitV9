@@ -1,0 +1,24 @@
+[*] GET -> REQUESTED: ( / ) BY 204.108.197.27
+[*] INVALID URL, SENDING block.html...
+[*] GET -> REQUESTED: ( /favicon.ico ) BY 204.108.197.27
+[*] INVALID URL, SENDING block.html...
+[*] GET -> REQUESTED: ( /proxy/https:/www.pacificatrocities.org/blog/indias-involvement-in-world-war-ii ) BY 204.108.197.27
+[*] GET -> REQUESTED: ( /proxy/client/unblocker-client.js ) BY 204.108.197.27
+[*] GET -> REQUESTED: ( /proxy/https:/cdn2.editmysite.com/css/old/fancybox.css?1709316166 ) BY 204.108.197.27
+[*] GET -> REQUESTED: ( /proxy/https:/www.googletagmanager.com/gtag/js?id=AW-980715393 ) BY 204.108.197.27
+[*] GET -> REQUESTED: ( /proxy/https:/cdn2.editmysite.com/css/sites.css?buildTime=1710180163 ) BY 204.108.197.27
+[*] GET -> REQUESTED: ( /proxy/https:/cdn2.editmysite.com/css/social-icons.css?buildtime=1709316166 ) BY 204.108.197.27
+[*] GET -> REQUESTED: ( /proxy/https:/cdn2.editmysite.com/fonts/Lora/font.css?2 ) BY 204.108.197.27
+[*] GET -> REQUESTED: ( /proxy/https:/www.pacificatrocities.org/files/main_style.css?1709413644 ) BY 204.108.197.27
+[*] GET -> REQUESTED: ( /proxy/https:/cdn2.editmysite.com/fonts/Gentium_Basic/font.css?2 ) BY 204.108.197.27
+[*] GET -> REQUESTED: ( /proxy/https:/cdn2.editmysite.com/fonts/Playfair_Display/font.css?2 ) BY 204.108.197.27
+[*] GET -> REQUESTED: ( /proxy/https:/cdn2.editmysite.com/fonts/Raleway/font.css?2 ) BY 204.108.197.27
+[*] GET -> REQUESTED: ( /proxy/https:/www.pacificatrocities.org/files/templateArtifacts.js?1709413644 ) BY 204.108.197.27
+[*] GET -> REQUESTED: ( /proxy/https:/cdn2.editmysite.com/js/site/main-membership-site.js?buildTime=1710180163 ) BY 204.108.197.27
+[*] GET -> REQUESTED: ( /proxy/https:/cdn2.editmysite.com/js/site/main.js?buildTime=1710180163 ) BY 204.108.197.27
+[*] GET -> REQUESTED: ( /proxy/https:/cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1709316166& ) BY 204.108.197.27
+[*] GET -> REQUESTED: ( /proxy/https:/widget.privy.com/assets/widget.js ) BY 204.108.197.27
+[*] GET -> REQUESTED: ( /proxy/https:/cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1710180163& ) BY 204.108.197.27
+[*] GET -> REQUESTED: ( /proxy/https:/cdn2.editmysite.com/js/jquery-1.8.3.min.js ) BY 204.108.197.27
+[*] GET -> REQUESTED: ( /proxy/https:/cdn2.editmysite.com/js/site/commerce-core.js?buildTime=1710180163 ) BY 204.108.197.27
+[*] GET -> REQUESTED: ( /proxy/https:/cdn2.editmysite.com/js/site/main-commerce-browse.js?buildTime=1710180163 ) BY 204.108.197.27
