@@ -1,20 +1,20 @@
 grade1 = {
-    "H1": 89.6, # english
-    "AP1": 98.59, # calc
-    "AP2": 90, # chem
-    "AP3": 88, # sem
-    "AP4": 86.87, # apush
-    "H2": 88.29, # french
+    "H1": 91.39, # english
+    "AP1": 96.05, # calc
+    "AP2": 89, # chem
+    "AP3": 91.15, # sem
+    "AP4": 85.46, # apush
+    "H2": 88.7, # french
     "H3": 96.76, # micro
 }
 grade2 = {
-    "H1": 89.6, # english
-    "AP1": 98.59, # calc
-    "AP2": 90, # chem
-    "AP3": 88, # sem
-    "AP4": 86.87, # apush
-    "H2": 88.29, # french
-    "H3": 96.76, # micro
+    "H1": 92.63, # english
+    "AP1": 96.76, # calc
+    "AP2": 93, # chem
+    "AP3": 95.57, # sem
+    "AP4": 85.03, # apush
+    "H2": 91.07, # french
+    "H3": 98.49, # robotics engineering
 }
 
 ######################################### CALCULATIONS:
