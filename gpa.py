@@ -1,21 +1,37 @@
 grade1 = {
-    "H1": 91.39, # english
-    "AP1": 96.05, # calc
-    "AP2": 89, # chem
-    "AP3": 91.15, # sem
-    "AP4": 85.46, # apush
-    "H2": 88.7, # french
-    "H3": 96.76, # micro
+    "AP1": 95, # lang
+    "AP2": 89, # physics
+    "AP3": 100, # research
+    "AP4": 89.44, # stats
+    "AP5": 94.88, # gov
 }
 grade2 = {
-    "H1": 92.63, # english
-    "AP1": 96.76, # calc
-    "AP2": 93, # chem
-    "AP3": 95.57, # sem
-    "AP4": 85.03, # apush
-    "H2": 91.07, # french
-    "H3": 98.49, # robotics engineering
+    "AP1": 95, # lang
+    "AP2": 89, # physics
+    "AP3": 100, # research
+    "AP4": 89.44, # stats
+    "AP5": 94.88, # gov
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ######################################### CALCULATIONS:
 #============================ GPA (weighted)
